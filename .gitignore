@@ -1,0 +1,10 @@
+﻿# Do not commit font binaries
+*.ttf
+*.TTF
+*.otf
+*.OTF
+*.woff
+*.woff2
+out/
+__pycache__/
+*.pyc

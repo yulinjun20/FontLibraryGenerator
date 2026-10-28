@@ -1,0 +1,5 @@
+﻿# Font Library Generator (Bake TTF -> UFL)
+uharfbuzz
+freetype-py
+fonttools
+pillow
